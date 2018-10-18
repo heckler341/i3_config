@@ -1,2 +1,4 @@
 # i3_config
-My .i3 config. Will prolly not be updated as changes are made.
+My .i3 config for a xubuntu install that lives on a flash drive.
+
+Will probably not be worked on again.
